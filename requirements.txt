@@ -1,0 +1,4 @@
+black>=23.0
+
+coverage==7
+codeclimate-test-reporter==0.2.3
